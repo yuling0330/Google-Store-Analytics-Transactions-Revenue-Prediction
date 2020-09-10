@@ -11,8 +11,8 @@ marketing budgets.
 
 Predict a how much GStore customer will spend. In addition, to predict the natural log of the sum of all transactions per user.
 
-$ \y_{user} = \sum_{i=1}^{n} transaction_{user_i} $
-$ \target_{user} = \ln({y_{user}+1}) $
+y_{user} = \sum_{i=1}^{n} transaction_{user_i}
+target_{user} = \ln({y_{user}+1})
 
 ### Data:
 
