@@ -44,9 +44,9 @@ Data Source is from Kaggle: https://www.kaggle.com/c/ga-customer-revenue-predict
 
 
 
-**References**
 
-References:
+
+**References**:
 
 https://www.kaggle.com/c/ga-customer-revenue-prediction/data
 https://shop.googlemerchandisestore.com/ 
