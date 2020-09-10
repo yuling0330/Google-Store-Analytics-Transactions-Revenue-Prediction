@@ -40,4 +40,7 @@ Predict a how much GStore customer will spend. In addition, to predict the natur
 - customDimensions - This section contains any user-level or session-level custom dimensions that are set for a session. This is a repeated field and has an entry for each dimension that is set.
 - totals - This set of columns mostly includes high-level aggregate data.
 
- *Data Source is from Kaggle: https://www.kaggle.com/c/ga-customer-revenue-prediction/data*
+ 
+ 
+ ### References:
+ - *Data Source is from Kaggle: https://www.kaggle.com/c/ga-customer-revenue-prediction/data*
