@@ -7,6 +7,7 @@ Understanding how much each customer spends will allow companies to place action
 to better allocate their 
 marketing budgets.
 
+
 ### Objective:
 
 Predict a how much GStore customer will spend. In addition, to predict the natural log of the sum of all transactions per user.
@@ -31,6 +32,8 @@ Predict a how much GStore customer will spend. In addition, to predict the natur
 - hits - This row and nested fields are populated for any and all types of hits. Provides a record of all page visits.
 - customDimensions - This section contains any user-level or session-level custom dimensions that are set for a session. This is a repeated field and has an entry for each dimension that is set.
 - totals - This set of columns mostly includes high-level aggregate data.
+
+Data Source is from Kaggle: https://www.kaggle.com/c/ga-customer-revenue-prediction/data
 
 
  
