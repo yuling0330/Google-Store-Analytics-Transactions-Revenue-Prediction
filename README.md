@@ -47,6 +47,7 @@ Data Source is from Kaggle: https://www.kaggle.com/c/ga-customer-revenue-predict
 **References**
 
 References:
+
 https://www.kaggle.com/c/ga-customer-revenue-prediction/data
 https://shop.googlemerchandisestore.com/ 
 https://www.marketwatch.com/press-release/data-analytics-market-2019-global-size-industry-share-sales-revenue-development-status-key-players-competitive-landscape-future-plans-and-regional-trends-by-forecast-2023-2019-02-15 
