@@ -11,7 +11,10 @@ marketing budgets.
 
 Predict a how much GStore customer will spend. In addition, to predict the natural log of the sum of all transactions per user.
 
-!<div style="text-align:center">[alt text](https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/blob/master/image/formula.PNG)</div>
+<p align="center">
+  <img src="https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/blob/master/image/formula.PNG" />
+</p>
+
 ### Data:
 
 - fullVisitorId- A unique identifier for each user of the Google Merchandise Store.
