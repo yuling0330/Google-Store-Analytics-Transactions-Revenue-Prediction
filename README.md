@@ -57,8 +57,6 @@ Predict a how much GStore customer will spend. In addition, to predict the natur
   </msub>
 </math>
 
-target_{user} = \ln({y_{user}+1})
-
 ### Data:
 
 - fullVisitorId- A unique identifier for each user of the Google Merchandise Store.
