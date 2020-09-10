@@ -2,9 +2,9 @@
 
 ### Background
 
-Industry Overview: The e-commerce market has changed the way business is transacted, whether in retail or business-to-business. The e-commerce market has become such a vital part of the economy that is difficult to pinpoint exactly where e-commerce begins and the old world economy ends. One of the largest segments of e-commerce is the online retail sector, which is dominated by the sale of consumer electronics, apparel and accessories. 
+**Industry Overview**: The e-commerce market has changed the way business is transacted, whether in retail or business-to-business. The e-commerce market has become such a vital part of the economy that is difficult to pinpoint exactly where e-commerce begins and the old world economy ends. One of the largest segments of e-commerce is the online retail sector, which is dominated by the sale of consumer electronics, apparel and accessories. 
 
-Google Store: The Google Merchandise Store is an ecommerce site that sells Google-branded merchandise from accessories, bags, clothes to office related supplies. With is wide range of products, it can be difficult to understand and track customers needs. 
+**Google Store**: The Google Merchandise Store is an ecommerce site that sells Google-branded merchandise from accessories, bags, clothes to office related supplies. With is wide range of products, it can be difficult to understand and track customers needs. 
 
 
 ### Problem Statement:
@@ -41,17 +41,3 @@ Predict a how much GStore customer will spend. In addition, to predict the natur
 - totals - This set of columns mostly includes high-level aggregate data.
 
  *Data Source is from Kaggle: https://www.kaggle.com/c/ga-customer-revenue-prediction/data*
-
-
-
-
-
-**References**:
-
-https://www.kaggle.com/c/ga-customer-revenue-prediction/data
-https://shop.googlemerchandisestore.com/ 
-https://www.marketwatch.com/press-release/data-analytics-market-2019-global-size-industry-share-sales-revenue-development-status-key-players-competitive-landscape-future-plans-and-regional-trends-by-forecast-2023-2019-02-15 
-https://infograph.venngage.com/p/222980/google-merchandise-store 
-https://medium.com/the-crossover-cast/5-ways-big-data-analytics-power-productivity-profits-41a17d802132
-https://smallbusiness.chron.com/industry-analysis-ecommerce-79759.html
-
