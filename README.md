@@ -11,7 +11,52 @@ marketing budgets.
 
 Predict a how much GStore customer will spend. In addition, to predict the natural log of the sum of all transactions per user.
 
-y_{user} = \sum_{i=1}^{n} transaction_{user_i}
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <msub>
+    <mi>y</mi>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mi>u</mi>
+      <mi>s</mi>
+      <mi>e</mi>
+      <mi>r</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <munderover>
+    <mo>&#x2211;<!-- ∑ --></mo>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mi>i</mi>
+      <mo>=</mo>
+      <mn>1</mn>
+    </mrow>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mi>n</mi>
+    </mrow>
+  </munderover>
+  <mi>t</mi>
+  <mi>r</mi>
+  <mi>a</mi>
+  <mi>n</mi>
+  <mi>s</mi>
+  <mi>a</mi>
+  <mi>c</mi>
+  <mi>t</mi>
+  <mi>i</mi>
+  <mi>o</mi>
+  <msub>
+    <mi>n</mi>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mi>u</mi>
+      <mi>s</mi>
+      <mi>e</mi>
+      <msub>
+        <mi>r</mi>
+        <mi>i</mi>
+      </msub>
+    </mrow>
+  </msub>
+</math>
+
 target_{user} = \ln({y_{user}+1})
 
 ### Data:
