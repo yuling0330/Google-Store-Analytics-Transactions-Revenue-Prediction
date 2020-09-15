@@ -1,12 +1,12 @@
 # Google Store Analytics Transactions Revenue Prediction
-
+---
 ### Background
 
 **Industry Overview**: The e-commerce market has changed the way business is transacted, whether in retail or business-to-business. The e-commerce market has become such a vital part of the economy that is difficult to pinpoint exactly where e-commerce begins and the old world economy ends. One of the largest segments of e-commerce is the online retail sector, which is dominated by the sale of consumer electronics, apparel and accessories. 
 
 **Google Store**: The Google Merchandise Store is an ecommerce site that sells Google-branded merchandise from accessories, bags, clothes to office related supplies. With is wide range of products, it can be difficult to understand and track customers needs. 
 
-
+---
 ### Problem Statement:
 
 The 80/20 rule has proven true for many businesses, only a small percentage of customers produce most of the revenue. 
@@ -14,7 +14,7 @@ Understanding how much each customer spends will allow companies to place action
 to better allocate their 
 marketing budgets.
 
-
+---
 ### Objective:
 
 Predict a how much GStore customer will spend. In addition, to predict the natural log of the sum of all transactions per user.
@@ -23,6 +23,7 @@ Predict a how much GStore customer will spend. In addition, to predict the natur
   <img src="https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/blob/master/image/formula.PNG" />
 </p>
 
+---
 ### Data:
 
 - fullVisitorId- A unique identifier for each user of the Google Merchandise Store.
@@ -42,5 +43,6 @@ Predict a how much GStore customer will spend. In addition, to predict the natur
 
  (ps: train_v2.csv.zip and test_v2.csv.zip is used)
  
+ ---
  ### References:
  - *Data Source is from Kaggle: https://www.kaggle.com/c/ga-customer-revenue-prediction/data*
